@@ -66,10 +66,10 @@ You can:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](dashboard_preview.png)
 
 🔗 **Live Dashboard**:  
-[View on Tableau Public](https://public.tableau.com/app/profile/AayushP-10/viz/Netflix_Visual_Analysis_Dashboard)
+[View on Tableau Public](https://public.tableau.com/app/profile/aayush.patil5835/viz/NetflixDashboard_17438066736050/Netflix)
 
 
 
